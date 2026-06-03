@@ -1,10 +1,10 @@
-# Smart Loan Intelligence System 🤖💰
+# Smart Loan Intelligence System 💰
 
-An AI-powered machine learning-based platfrom that predicts loan eligibility, loan approval status, and borrower credit risk using historical financial data. The system provides fast, data-driven, and consistent decision support for loan processing.
+An Machine learning-based platfrom that predicts loan eligibility, loan approval status, and borrower credit risk using historical financial data. The system provides fast, data-driven, and consistent decision support for loan processing.
 
 ---
 
-# 🚀 Project Overview
+#  Project Overview
 
 The **Smart Loan Intelligence System** is designed to assist in intelligent lending decisions using machine learning models. It evaluates a loan application in three stages:
 
@@ -19,7 +19,7 @@ Classifies applicants into Low, Medium, or High risk categories to evaluate repa
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
 - Automate loan decision-making using machine learning
 - Reduce manual evaluation effort
@@ -30,23 +30,23 @@ Classifies applicants into Low, Medium, or High risk categories to evaluate repa
 
 ---
 
-# 🧠 Machine Learning Models
+#  Machine Learning Models
 
-## 📌 1. Loan Eligibility Model
+##  1. Loan Eligibility Model
 - **Type:** Binary Classification  
 - **Output:** Eligible / Not Eligible  
 - **Algorithms:** Logistic Regression / Decision Tree / Random Forest  
 
 ---
 
-## 📌 2. Loan Approval Model
+##  2. Loan Approval Model
 - **Type:** Binary Classification  
 - **Output:** Approved / Rejected  
 - **Algorithms:** Random Forest / Gradient Boosting / XGBoost  
 
 ---
 
-## 📌 3. Credit Risk Model
+##  3. Credit Risk Model
 - **Type:** Multi-class Classification  
 - **Output:** Low Risk / Medium Risk / High Risk  
 - **Algorithms:** Random Forest / XGBoost  
@@ -55,17 +55,17 @@ Classifies applicants into Low, Medium, or High risk categories to evaluate repa
 
 # ⚙️ Tech Stack
 
-## 🖥️ Frontend
+##  Frontend
 - HTML
 - CSS
 - JavaScript
 - React.js
 
-## 🔌 Backend
+##  Backend
 - Flask (Python)
 - REST APIs
 
-## 🧠 Machine Learning
+##  Machine Learning
 - Python
 - Pandas
 - NumPy
@@ -74,7 +74,7 @@ Classifies applicants into Low, Medium, or High risk categories to evaluate repa
 
 ---
 
-# 🔄 Workflow
+#  Workflow
 
 1. User enters loan application details in the UI  
 2. React frontend sends data to Flask backend  
@@ -88,7 +88,7 @@ Classifies applicants into Low, Medium, or High risk categories to evaluate repa
 
 ---
 
-# 📊 Input Features (Example)
+#  Input Features (Example)
 
 - Age  
 - Income  
@@ -101,7 +101,7 @@ Classifies applicants into Low, Medium, or High risk categories to evaluate repa
 
 ---
 
-# 📈 Output Example
+#  Output Example
 
 ```json
 {
