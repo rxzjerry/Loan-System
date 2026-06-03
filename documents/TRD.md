@@ -1,7 +1,5 @@
-# TECHNICAL REQUIREMENTS DOCUMENT (TRD)
+# TRD.md — Smart Loan Intelligence System 
 
-## Smart Loan Intelligence System
-## Version 1.0
 ---
 
 # 1. Project Overview
