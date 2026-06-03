@@ -263,7 +263,7 @@ Returns risk classification.
 
 # 10. Non-Functional Requirements
 
-Performance
+## Performance
 
 The system shall provide prediction results with minimal delay.
 
@@ -286,7 +286,7 @@ Requirements:
 * Credit risk classification should achieve acceptable precision and recall scores.
 * Model performance shall be evaluated using standard ML metrics.
 ---
-Reliability
+## Reliability
 
 The system shall consistently generate predictions without failure.
 
