@@ -39,7 +39,6 @@ The platform aims to assist financial institutions in making faster, consistent,
 | UI Design        | HTML5, CSS3, JavaScript     |
 | Backend          | Flask (Python)              |
 | Machine Learning | Scikit-Learn, Pandas, NumPy |
-| Database         | PostgreSQL                  |
 | API Format       | REST API (JSON)             |
 | Authentication   | JWT                         |
 | Version Control  | Git & GitHub                |
@@ -310,7 +309,6 @@ Requirements:
 * Docker
 * Gunicorn
 * Nginx
-* PostgreSQL
 
 ---
 
